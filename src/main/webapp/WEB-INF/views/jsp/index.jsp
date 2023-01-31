@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Arvind Technologies, TamilNadu</h2>
+			<h2>Welcome To Arvind Technologies, TamilNadu.</h2>
 			<h3>Contact @ +91-99999999 </h3>
 		</div>	
 	</div>
